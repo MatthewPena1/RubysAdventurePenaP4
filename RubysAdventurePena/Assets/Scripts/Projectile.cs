@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
-
     Rigidbody2D rigidbody2d;
 
     // Start is called before the first frame update
@@ -28,6 +27,7 @@ public class Projectile : MonoBehaviour
         }
 
         Destroy(gameObject);
+
     }
 
     // Update is called once per frame
