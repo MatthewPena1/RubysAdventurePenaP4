@@ -12124,6 +12124,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5524235366736979877, guid: 5dcb08cb57c60ea4d9d7a3855fe50f9a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7705802063022368209, guid: 5dcb08cb57c60ea4d9d7a3855fe50f9a, type: 3}
       propertyPath: m_Name
       value: Jambi
